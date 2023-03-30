@@ -5,7 +5,7 @@ https://github.com/chrisgom113/virtual-shopper
 ```
 Walkthru Video link:
 ``` 
-TODO
+https://drive.google.com/file/d/13DVgraXBfSVHoPBhMtWclHflUEc6Gqvz/view
 ```
 # Description
 
@@ -17,7 +17,7 @@ Functionality is tested and demonstrated below through the use of Insomnia.
 
 See User Story for details
 
-## User Story:
+User Story:
 
 ```
 AS A manager at an internet retail company
@@ -50,8 +50,9 @@ sequelize
     - GET routes for a single cateogory, single product, and single tag
     - POST, PUT, and DELETE, routes for categories, products, and tags
 - A walkthrough video is also available for more detailed account of the usage, using this link: 
-    - 
-
+    ```
+   https://drive.google.com/file/d/13DVgraXBfSVHoPBhMtWclHflUEc6Gqvz/view
+    ```
 - The below screenshots provides a brief visual of the folder structures and visualized JSON data in Insomnia
 
 ## VS Code File/Folders
