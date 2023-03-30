@@ -57,8 +57,11 @@ sequelize
 
 ## VS Code File/Folders
 
+![VS Code Structure](./assets/vsCode_visual.png)
+
 ## Insomnia Testing
 
+![insomnia view](./assets/insomnia_visual.png)
 
 # License
 
